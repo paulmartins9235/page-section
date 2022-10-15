@@ -1,0 +1,50 @@
+.logo {
+    background: url(../img/car_logo.png) no-repeat;
+    text-indent: -9999px;
+    width: 143px;
+    height: 43px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+li {
+    display: inline;
+    padding-right: 10px;
+}
+
+.lili {
+    text-decoration: none;
+    color: skyblue;
+}
+
+.lili:hover {
+    text-decoration: underline;
+    color: brown;
+}
+
+.links:hover {
+    text-decoration: underline;
+    color: brown;
+}
+
+.links {
+    color: red; 
+    text-decoration: none;
+} 
+
+h1 {
+    font-family: sans-serif;
+}
+
+div {
+    width: 500px;
+    background: skyblue;
+    margin: auto;
+    text-align: center;
+}
+
+img {
+    float: none;
+}

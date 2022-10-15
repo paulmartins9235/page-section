@@ -1,0 +1,36 @@
+body {
+    width: 600px;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+img {
+    padding-right: 0;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    padding-left: 0;
+    
+}
+
+h2 {
+    width: 250;
+}
+
+.squeeze {
+    width: 300px;
+    min-width: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
+
+a:hover {
+    text-decoration: wavy;
+    color: grey;
+}
